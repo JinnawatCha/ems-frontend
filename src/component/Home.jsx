@@ -12,7 +12,6 @@ export default function Home() {
           <div className="bg-base-200 grid place-content-center text-9xl font-black">MANAGEMENT</div>
         </div>
         <div className="diff-resizer"></div>
-        
       </div>
     </div>
   )
